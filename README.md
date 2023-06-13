@@ -4,7 +4,7 @@
 
 ####  admin portal
 #####  2023-06-13
-1.  db , chatmessage 添加2个字段
+1.  db , chatmessage 添加2个字段 user_name  custom_name
 
 2.  更新数据库的基础数据
 
